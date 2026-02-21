@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ケイドイド",
+  "base_artist": "Mr.FanTastiC",
+  "createdAt": "2026-02-21T03:41:58.493496Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケイドイド",
+      "artist": "Mr.FanTastiC",
+      "has_synced": false,
+      "path": "select/pl_01_ケイドイド_Mr.FanTastiC.txt"
+    }
+  ]
+}
